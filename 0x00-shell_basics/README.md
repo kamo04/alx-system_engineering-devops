@@ -8,3 +8,4 @@ The script creates a directory named my_first_directory
 Script to move betty to /tmp/my_first_directory
 Deletes betty
 Delets my first directory 
+Goes back to 1 directory
