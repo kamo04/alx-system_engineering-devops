@@ -11,3 +11,4 @@ Delets my first directory
 Goes back to 1 directory
 Shows all files and the boot order
 list the file type of the named file
+Shows a symbolic link in th created dir
