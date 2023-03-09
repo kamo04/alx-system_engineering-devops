@@ -9,3 +9,4 @@ Script to move betty to /tmp/my_first_directory
 Deletes betty
 Delets my first directory 
 Goes back to 1 directory
+Shows all fils and the boot order
