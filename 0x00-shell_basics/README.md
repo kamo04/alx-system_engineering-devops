@@ -9,4 +9,5 @@ Script to move betty to /tmp/my_first_directory
 Deletes betty
 Delets my first directory 
 Goes back to 1 directory
-Shows all fils and the boot order
+Shows all files and the boot order
+list the file type of the named file
