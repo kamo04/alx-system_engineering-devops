@@ -9,3 +9,4 @@ creates a file named Best school and contains the text BestSchool ending by a ne
 Saves current state
 duplicates the last line of the file 
 No more files
+counts the number of directories and sub-directories in the current directory.
