@@ -10,3 +10,4 @@ Saves current state
 duplicates the last line of the file 
 No more files
 counts the number of directories and sub-directories in the current directory.
+Displays 10 newest files in the current directory.
