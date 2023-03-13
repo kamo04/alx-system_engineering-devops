@@ -8,3 +8,4 @@ displays the third line of the file
 creates a file named Best school and contains the text BestSchool ending by a new line.
 Saves current state
 duplicates the last line of the file 
+No more files
