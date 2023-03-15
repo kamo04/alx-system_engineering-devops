@@ -7,3 +7,4 @@ A script that lists all local variables and functions
 A new local variable script is created
 Creats a new global variable
 Prints the results of the additions of 128 with the value that is stored in the TrueKnowledge variable
+This script prints out the result of Power divided by DIVIDE
