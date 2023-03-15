@@ -6,3 +6,4 @@ Creates a scripts that is happens to list environmental variables
 A script that lists all local variables and functions
 A new local variable script is created
 Creats a new global variable
+Prints the results of the additions of 128 with the value that is stored in the TrueKnowledge variable
